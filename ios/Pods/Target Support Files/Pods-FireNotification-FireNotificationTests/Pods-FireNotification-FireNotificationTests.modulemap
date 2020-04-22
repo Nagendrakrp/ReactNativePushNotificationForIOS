@@ -1,0 +1,6 @@
+module Pods_FireNotification_FireNotificationTests {
+  umbrella header "Pods-FireNotification-FireNotificationTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
